@@ -117,3 +117,11 @@ Periodically, execute the following command to update all packages:
 ```bash
 sudo pentoo-updater
 ```
+
+### Ubuntu
+
+```bash
+apt update
+apt install snapd
+snap install amass
+```
